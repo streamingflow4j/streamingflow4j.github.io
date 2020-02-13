@@ -1,0 +1,13 @@
+---
+layout: default
+img: main.png
+category: Services
+title: Analytics on data in motion
+description: |
+---
+ StreamingFlow4J provides Complex Event Processing over 
+ RabbitMQ and Apache Kafka streaming. It enables the analyzes 
+ of Real-time massive amounts of data from multiple sources. 
+ Thus, using it developers can easily create systems to identifies 
+ unique and fleeting opportunities that enterprises must act on 
+ within a given time frame. 
