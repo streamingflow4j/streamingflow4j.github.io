@@ -6,5 +6,5 @@ title: Process massive data
 description: |
 ---
   StreamingFlow4J enables developers control pipe streams over massive data inputs on
-  RabbitMQ and Apache Kafka. 
+  RabbitMQ, Redis and Apache Kafka. 
   
