@@ -24,8 +24,8 @@ permalink: pretty
 # ----------------------- #
 
 social:
- #- title: twitter
- #  url: https://twitter.com/SBootstrap
+  - title: youtube
+    url: https://youtu.be/IHu1oKPkuug?list=PLlGdgT4YoKAeTerFXNCwDUbIMGVKinJkt
   - title: github
     url: https://github.com/streamingflow4j
  # - title: linkedin
